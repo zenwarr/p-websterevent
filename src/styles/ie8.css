@@ -1,0 +1,26 @@
+.heart-plot.slides-hidden .mockup-slides {
+  display: none;
+}
+
+.reviews-container .bx-pager-link {
+  background: url(../img/ie8/icon-dot-small.png);
+}
+
+.reviews-container .bx-pager-link.active {
+  background: url(../img/ie8/icon-dot-small-active.png);
+}
+
+.func-slides-container .bx-pager-link {
+  background: url(../img/ie8/icon-dot.png);
+}
+
+.func-slides-container .bx-pager-link.active {
+  background: url(../img/ie8/icon-dot-active.png);
+}
+
+.form-input:focus ~ .form-input-placeholder {
+  display: none !important;
+}
+.form-input.empty ~ .form-input-placeholder {
+  display: block;
+}
